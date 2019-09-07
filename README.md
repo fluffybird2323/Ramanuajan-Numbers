@@ -1,2 +1,2 @@
-# Ramanuajan-Numbers
+# Ramanujan-Numbers
 Assembly code [SimpleRISC] to compute second ramanujan number
