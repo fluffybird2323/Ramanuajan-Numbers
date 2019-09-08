@@ -1,6 +1,6 @@
 # Ramanujan-Numbers
 Assembly code [SimpleRISC] to compute second ramanujan number
-```
+```c
           .text
           .globl __ start 
 __ start:
